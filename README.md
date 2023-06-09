@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Tela de login e cadastro com Bootstrap</h1>
+<h1 align="center" style="font-weight: bold;">Tela de login/cadastro e Galeria com Bootstrap</h1>
 
 <p align="center">
     <img src="https://www.alura.com.br/artigos/assets/bootstrap/bootstrap.png" width="500px"/>
@@ -6,13 +6,13 @@
   
 <p align="center">
  <a href="#-sobre">Sobre</a> •
- <a href="#-projetos">Projeto</a> •
+ <a href="#-projetos">Projetos</a> •
  <a href="#%EF%B8%8F-autor">Autor</a>
 </p>
 
 ## 💻 Sobre
 
-Implementação de tela de cadastro e login utilizando o framework Bootstrap. As telas foram desenvolvidas de forma responsiva e intuitiva, proporcionando uma experiência agradável aos usuários.
+Implementação de tela de cadastro/login e página de uma galeria utilizando o framework Bootstrap realizado no curso <a href="https://www.udemy.com/course/bootstrap-5-do-basico-ao-avancado-com-4-projetos/" target="_blank">Bootstrap 5 do básico ao avançado</a>. As telas foram desenvolvidas de forma responsiva e intuitiva, proporcionando uma experiência agradável aos usuários.
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
@@ -27,7 +27,7 @@ Implementação de tela de cadastro e login utilizando o framework Bootstrap. As
 
 ---
 
-## 🚧 Projeto
+## 🚧 Projetos
 
 <h3 align="center">Página de Login
     <p></p>
@@ -37,6 +37,13 @@ Implementação de tela de cadastro e login utilizando o framework Bootstrap. As
 <h3 align="center">Página de Cadastro
     <p></p>
   	<img src="./.github/cadastro.png"/>
+</h3>
+
+---
+
+<h3 align="center">Página de galeria
+    <p></p>
+    <img src="./.github/grafiart.png"/>
 </h3>
 
 ---
