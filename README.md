@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Tela de login/cadastro e Galeria com Bootstrap</h1>
+<h1 align="center" style="font-weight: bold;">Tela de login/cadastro, Galeria e Ecommerce com Bootstrap</h1>
 
 <p align="center">
     <img src="https://www.alura.com.br/artigos/assets/bootstrap/bootstrap.png" width="500px"/>
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre
 
-Implementação de tela de cadastro/login e página de uma galeria utilizando o framework Bootstrap realizado no curso <a href="https://www.udemy.com/course/bootstrap-5-do-basico-ao-avancado-com-4-projetos/" target="_blank">Bootstrap 5 do básico ao avançado</a>. As telas foram desenvolvidas de forma responsiva e intuitiva, proporcionando uma experiência agradável aos usuários.
+Implementação de tela de cadastro/login, página de uma galeria e página de ecommerce utilizando o framework Bootstrap realizado no curso <a href="https://www.udemy.com/course/bootstrap-5-do-basico-ao-avancado-com-4-projetos/" target="_blank">Bootstrap 5 do básico ao avançado</a>. As telas foram desenvolvidas de forma responsiva e intuitiva, proporcionando uma experiência agradável aos usuários.
 
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
@@ -44,6 +44,13 @@ Implementação de tela de cadastro/login e página de uma galeria utilizando o 
 <h3 align="center">Página de galeria
     <p></p>
     <img src="./.github/grafiart.png"/>
+</h3>
+
+---
+
+<h3 align="center">Página de ecommerce
+    <p></p>
+    <img src="./.github/ecommerce.png"/>
 </h3>
 
 ---
