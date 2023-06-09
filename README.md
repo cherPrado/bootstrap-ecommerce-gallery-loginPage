@@ -14,7 +14,7 @@
 
 Implementação de tela de cadastro/login, página de uma galeria e página de ecommerce utilizando o framework Bootstrap realizado no curso <a href="https://www.udemy.com/course/bootstrap-5-do-basico-ao-avancado-com-4-projetos/" target="_blank">Bootstrap 5 do básico ao avançado</a>. As telas foram desenvolvidas de forma responsiva e intuitiva, proporcionando uma experiência agradável aos usuários.
 
-<h3 align="center">
+<h3 align="center"> 
 ⚙️ Tecnologias utilizadas
 
 <p>&nbsp;</p>
