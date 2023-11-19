@@ -31,33 +31,33 @@ Implementação de tela de cadastro/login, página de uma galeria e página de e
 
 <h3 align="center">Página de Login
     <p></p>
-    <img width="800px" src="./.github/login.png"/>
+    <img width="700px" src="./.github/login.png"/>
 </h3>
 
 <h3 align="center">Página de Cadastro
     <p></p>
-  	<img width="800px" src="./.github/cadastro.png"/>
+  	<img width="700px" src="./.github/cadastro.png"/>
 </h3>
 
 ---
 
 <h3 align="center">Página de galeria
     <p></p>
-    <img width="800px" src="./.github/grafiart.png"/>
+    <img width="700px" src="./.github/grafiart.png"/>
 </h3>
 
 ---
 
 <h3 align="center">Página de ecommerce
     <p></p>
-    <img width="800px" src="./.github/ecommerce.png"/>
+    <img width="700px" src="./.github/ecommerce.png"/>
 </h3>
 
 ---
 
 <h3 align="center">📜 Certificado
     <p></p>
-    <img width="800px" src="./.github/certificado.jpg"/>
+    <img width="700px" src="./.github/certificado.jpg"/>
 </h3>
 
 ---
