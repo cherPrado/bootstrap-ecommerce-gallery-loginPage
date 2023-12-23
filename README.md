@@ -43,28 +43,28 @@ Implementação de tela de cadastro/login, página de uma galeria e página de e
 
 <h3 align="center">Página de galeria
     <p></p>
-    <img width="700px" src="./.github/grafiart.png"/>
+    <img width="500px" src="./.github/grafiart.png"/>
 </h3>
 
 ---
 
 <h3 align="center">Página de ecommerce
     <p></p>
-    <img width="700px" src="./.github/ecommerce.png"/>
+    <img width="500px" src="./.github/ecommerce.png"/>
 </h3>
 
 ---
 
 <h3 align="center">📜 Certificado
     <p></p>
-    <img width="700px" src="./.github/certificado.jpg"/>
+    <img width="500px" src="./.github/certificado.jpg"/>
 </h3>
 
 ---
 
 ## ✒️ Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| [<img src="https://media.licdn.com/dms/image/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_200_200/0/1700061191174?e=1708560000&v=beta&t=kPf9oHrVTwE7_jCoSI6iil8rYoHxzckhSEVdbe0F3KQ" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h2 >Entre em contato 🤙🏽</h2>
